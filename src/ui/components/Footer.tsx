@@ -82,7 +82,7 @@ export async function Footer({ channel }: { channel: string }) {
 				)}
 
 				<div className="flex flex-col justify-between border-t border-neutral-200 py-10 sm:flex-row">
-					<p className="text-sm text-neutral-500">Copyright &copy; {currentYear} Medamall, Inc.</p>
+					<p className="text-sm text-neutral-500">Copyright &copy; {currentYear} Your Store, Inc.</p>
 				</div>
 			</div>
 		</footer>
