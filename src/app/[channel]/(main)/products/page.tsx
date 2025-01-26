@@ -6,7 +6,7 @@ import { ProductList } from "@/ui/components/ProductList";
 import { ProductsPerPage } from "@/app/config";
 
 export const metadata = {
-	title: "Products · Saleor Storefront example",
+	title: "Products · Medamall Storefront",
 	description: "All products in Medamall",
 };
 
