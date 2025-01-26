@@ -7,7 +7,7 @@ import { ProductsPerPage } from "@/app/config";
 
 export const metadata = {
 	title: "Products · Saleor Storefront example",
-	description: "All products in Saleor Storefront example",
+	description: "All products in Medamall",
 };
 
 export default async function Page({
